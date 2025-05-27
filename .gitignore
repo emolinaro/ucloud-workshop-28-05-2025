@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Generic
+.env
+artifacts
+lora
+models
+datasets
+results
+label_studio.sqlite3*
+cache.db
+model.cache
