@@ -73,9 +73,9 @@ Follow [`01-triton-trtllm-model-deployment.ipynb`](01-triton-trtllm-model-deploy
 ## 🚀 Quick Start
 
 To run the pipeline, follow the sequence:
-1. Deploy an inference server with [`01-triton-trtllm-model-deployment.ipynb`](02-triton-trtllm-model-deployment.ipynb)
-2. Create a synthetic medical Q&A dataset with [`02-ls-create-medal-qa-dataset.ipynb`](03-ls-create-medal-qa-dataset.ipynb)
-3. Fine-tune the model on the synthetic data with [`03-nemo-medal-qa-peft.ipynb`](04-nemo-medal-qa-peft.ipynb)
+1. Deploy an inference server with [`01-triton-trtllm-model-deployment.ipynb`](01-triton-trtllm-model-deployment.ipynb)
+2. Create a synthetic medical Q&A dataset with [`02-ls-create-medal-qa-dataset.ipynb`](02-ls-create-medal-qa-dataset.ipynb)
+3. Fine-tune the model on the synthetic data with [`03-nemo-medal-qa-peft.ipynb`](03-nemo-medal-qa-peft.ipynb)
 
 ---
 
